@@ -1,4 +1,5 @@
 <?php
+//must first use the controller we created 
 
 use App\Http\Controllers\UrlController;
 use Illuminate\Support\Facades\Route;
