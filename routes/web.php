@@ -1,6 +1,7 @@
 <?php
 //must first use the controller we created 
 
+//must first add the usage if our controller named UrlController
 use App\Http\Controllers\UrlController;
 use Illuminate\Support\Facades\Route;
 
